@@ -28,7 +28,7 @@ EBH comes in four type styles:
 
   * **Initials** features the enlarged and often decorated letters that were used to mark the beginning of each poem throughout the manuscript. As with the other styles in this set, this font contains the initial characters that appear in the manuscript, as well as the creation of the ones that do not.
 
-As of December 2021, EBH has a total of 330 glyphs. A full list of glyphs and their key codes can be found [here](EBH-all-glyphs.pdf). Specimens are on the project [website](https://www.exeterbookhand.com).
+As of December 2021, EBH has a total of 330 glyphs. A full list of glyphs with their key combinations can be found [here](EBH-all-glyphs.pdf). Specimens are on the [project website](https://www.exeterbookhand.com).
 
 ## Notes to users
 
@@ -39,7 +39,7 @@ Ligatures, in medieval manuscripts, are joined letterforms used by scribes to ma
 This feature is activated by default in all major software, except Microsoft Word, where you must enable automatic ligature substitution on the **Advanced** tab of the **Font** dialog box:
 
 <p float="left">
-<img src="images/liga-MS-Word.png" width="290" align="top" margin-right="300" alt="Enable Ligatures in WS Word" />
+<img src="images/liga-MS-Word.png" width="290" align="top" alt="Enable Ligatures in WS Word" />
 <img src="images/liga-MS-Word-2.png" width="340" align="top" alt="Enable Ligatures in WS Word" />
 </p>
 
@@ -51,7 +51,7 @@ An example of Old English **wæter** using EBH **Facsimile**:
 
 ### 2. Using alternative glyphs
 
-All EBH fonts contain alternative glyphs for a number of characters. Access to these glyphs is easy and straightforward. For example, in EBH **Facsimile**, there are three forms of the letter **y**, and each of them is assigned a combination key, such as **`y`** , **`y`**+**`2`**, and **`y`**+**`3`**:
+All EBH fonts contain alternative glyphs for a number of characters. Access to these glyphs is easy and straightforward. For example, in EBH **Facsimile**, there are three forms of the lowercase letter **Y**, and each of them is assigned a combination key, such as **`y`** , **`y`**+**`2`**, and **`y`**+**`3`**:
 
 | Key             |  Character | Description |
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -59,7 +59,7 @@ All EBH fonts contain alternative glyphs for a number of characters. Access to t
 **`y`**+**`2`**  |  <img src="images/y-2.svg" width="15"/>  | straight-sided Y
 **`y`**+**`3`**  |  <img src="images/y-3.svg" width="15"/>  | F-shaped Y (common in the insular gospel books of the 7th and 8th centuries)
 
-By combining different keys in the same way as ligatures, you can access all alternative styles of glyphs in all four fonts. For the complete list of key codes, see the document [here].  
+By combining different keys in the same way as ligatures, you can access all alternative styles of glyphs in all four fonts. For the complete list of key combinations, see the document [here](EBH-all-glyphs.pdf).  
 
 ## License
 
