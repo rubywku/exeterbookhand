@@ -1,6 +1,6 @@
-Copyright (c) 2021, The Digital Exeter-Book Hand Project 
+Copyright (c) 2022, The Digital Exeter-Book Hand 
 (http://exeterbookhand.com|rubywku@gmail.com), with Reserved Font Names 
-'EBH Facsimile', 'EBH Alternates', 'EBH Initials', and 'EBH Runes'.
+'EBH Facsimile', 'EBH Alternates', 'EBH Runes', and 'EBH Initials'.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
