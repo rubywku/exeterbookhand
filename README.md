@@ -39,7 +39,7 @@ Ligatures, in medieval manuscripts, are joined letterforms used by scribes to ma
 This feature is activated by default in all major software, except Microsoft Word, where you must enable automatic ligature substitution on the **Advanced** tab of the **Font** dialog box:
 
 <p float="left">
-<img src="images/liga-MS-Word.png" width="290" align="top" margin-right="300" alt="Enable Ligatures in WS Word" />
+<img src="images/liga-MS-Word.png" width="290" align="top" alt="Enable Ligatures in WS Word" />
 <img src="images/liga-MS-Word-2.png" width="340" align="top" alt="Enable Ligatures in WS Word" />
 </p>
 
@@ -51,7 +51,7 @@ An example of Old English **wæter** using EBH **Facsimile**:
 
 ### 2. Using alternative glyphs
 
-All EBH fonts contain alternative glyphs for a number of characters. Access to these glyphs is easy and straightforward. For example, in EBH **Facsimile**, there are three forms of the letter **y**, and each of them is assigned a combination key, such as **`y`** , **`y`**+**`2`**, and **`y`**+**`3`**:
+All EBH fonts contain alternative glyphs for a number of characters. Access to these glyphs is easy and straightforward. For example, in EBH **Facsimile**, there are three forms of the lowercase letter **Y**, and each of them is assigned a combination key, such as **`y`** , **`y`**+**`2`**, and **`y`**+**`3`**:
 
 | Key             |  Character | Description |
 :-------------------------:|:-------------------------:|:-------------------------:
