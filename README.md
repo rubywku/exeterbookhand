@@ -36,11 +36,11 @@ As of December 2021, EBH has a total of 330 glyphs, all of which are described i
 
 Ligatures, in medieval manuscripts, are joined letterforms used by scribes to make writing more efficient while saving space on the precious writing material. If you wish to render this scribal feature, you need to ensure that the OpenType feature, Standard Ligatures (liga), is enabled in your software.
 
-This feature is activated by default in all major software, except Microsoft Word, where you must enable automatic ligature substitution on the **Advanced** tab of the **Font** dialog box:
+This feature is activated by default in all major software, except Microsoft Word, where you must enable automatic ligature substitution on the **Advanced** tab of the **Font** dialogue box:
 
 <p float="left">
 <img src="images/liga-MS-Word.png" width="290" align="top" alt="Enable Ligatures in WS Word" />
-<img src="images/liga-MS-Word-02.png" width="340" align="top" alt="Enable Ligatures in WS Word" />
+<img src="images/liga-MS-Word-02.png" width="360" align="top" alt="Enable Ligatures in WS Word" />
 </p>
 
 An example of Old English **wæter** using EBH **Facsimile**:
