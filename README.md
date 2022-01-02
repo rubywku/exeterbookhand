@@ -43,7 +43,7 @@ This feature is activated by default in all major software, except Microsoft Wor
 <img src="images/liga-MS-Word-02.png" width="360" align="top" alt="Enable Ligatures in WS Word" />
 </p>
 
-An example of Old English **wæter** using EBH **Facsimile**:
+An example of the Old English word **wæter** using EBH **Facsimile**:
 
 | Ligatures ON            | Ligatures OFF |
 :-------------------------:|:-------------------------:
