@@ -40,7 +40,7 @@ This feature is activated by default in all major software, except Microsoft Wor
 
 <p float="left">
 <img src="images/liga-MS-Word.png" width="290" align="top" alt="Enable Ligatures in WS Word" />
-<img src="images/liga-MS-Word-2.png" width="340" align="top" alt="Enable Ligatures in WS Word" />
+<img src="images/liga-MS-Word-02.png" width="340" align="top" alt="Enable Ligatures in WS Word" />
 </p>
 
 An example of Old English **wæter** using EBH **Facsimile**:
