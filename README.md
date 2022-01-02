@@ -28,7 +28,7 @@ EBH comes in four type styles:
 
   * **Initials** features the enlarged and often decorated letters that were used to mark the beginning of each poem throughout the manuscript. As with the other styles in this set, this font contains the initial characters that appear in the manuscript, as well as the creation of the ones that do not.
 
-As of December 2021, EBH has a total of 330 glyphs. A full list of glyphs with their key combinations can be found [here](EBH-all-glyphs.pdf). Specimens are on the [project website](https://www.exeterbookhand.com).
+As of December 2021, EBH has a total of 330 glyphs, all of which are described in [EBH-all-glyphs.pdf](EBH-all-glyphs.pdf). Specimens are on the [project website](https://www.exeterbookhand.com).
 
 ## Notes to users
 
@@ -59,7 +59,7 @@ All EBH fonts contain alternative glyphs for a number of characters. Access to t
 **`y`**+**`2`**  |  <img src="images/y-2.svg" width="15"/>  | straight-sided Y
 **`y`**+**`3`**  |  <img src="images/y-3.svg" width="15"/>  | F-shaped Y (common in the insular gospel books of the 7th and 8th centuries)
 
-By combining different keys in the same way as ligatures, you can access all alternative styles of glyphs in all four fonts. For the complete list of key combinations, see the document [here](EBH-all-glyphs.pdf).  
+By combining different keys in the same way as ligatures, you can access all alternative styles of glyphs in all four fonts. The key combinations are listed in [EBH-all-glyphs.pdf](EBH-all-glyphs.pdf).
 
 ## License
 
