@@ -4,7 +4,7 @@
 
 This is the repository for **The Digital Exeter-Book Hand** ([exeterbookhand.com](https://www.exeterbookhand.com)), an independent project that has been created to encourage the study and appreciation of the scribal hand of Exeter MS 3501, commonly known as the Exeter Book.
 
-The Exeter Book is one of the four major surviving miscellanies of Old English literature. Written around 970 AD, this manuscript contains poems ranging from religious narratives to didactic poems and riddles. The script is an English square minuscule that emerged from the earlier pointed minuscule developed in the British Isles. It was so elegantly executed in the Exeter Book that Sir E. M. Thompson considered this script to be the ‘a standard example’ that tenth-century scribes aspired to emulate.
+The Exeter Book is one of the four major surviving miscellanies of Old English literature. Written around 970 AD, it was described in Leofric’s donation list as a _mycel Englisc boc be gehwilcum þingum on leoð-wisan geworht_ (‘a large English book about all sorts of things composed in poetry’), with content ranging from religious narratives to didactic poems and riddles. The script is an English square minuscule that emerged from the earlier pointed minuscule developed in the British Isles. It was so elegantly executed in the Exeter Book that Sir E. M. Thompson considered this script to be the ‘a standard example’ that tenth-century scribes aspired to emulate.
 
 The project includes the following resources:
   * [**EBH Font Collection**](#ebh-font-collection) – a set of OpenType fonts covering the majority of letters and ligatures in the MS
@@ -18,13 +18,13 @@ The project includes the following resources:
 
 EBH (short for Exeter-Book Hand) is a digital type revival based on the hand of the scribe and illuminator who produced Exeter MS 3501. The overall shape of the script is very upright, with long ascenders and descenders and a fine balance of light and heavy strokes, whereas the ornamentation takes the form of initials made up of elements common in both Germanic and Celtic art. 
 
-A faithful rendition of the script embodied by Exeter Book's hand, EBH covers the Old English characters in both text and initials , and extends even further into the modern character set. The set comes in four type styles:
+This font collection covers the great majority of letter forms, punctuation and diacritical marks found in the manuscript, with an extension to the modern character set. It comes in four type styles:
 
-  * **Facsimile** is complete with Old English characters, ligatures, archaic and special forms of letters (e.g. long **S**, bowed **R**, and three different shapes of **Y**) as they appear in the manuscript. It also contains the medieval punctuation and abbreviations employed by the scribe.
+  * **Facsimile** is complete with Old English characters, ligatures, and archaic or special forms of letters (e.g. long **S**, bowed **R**, and three different shapes of **Y**). It also contains the medieval punctuation and abbreviations employed by the scribe.
 
-  * **Alternates** offers some contemporary characters interpreted in the style of the scribal hand, as well as letters that were not or rarely used by English scribes in the tenth century. This character set omits most of the ligatures for better legibility, but adds numerals and the punctuation and symbols that are essential in present-day communications.
+  * **Alternates** offers some contemporary characters interpreted in the style of the scribal hand (e.g. lowercase **R** and **S**), as well as letters that were not used by English scribes in the tenth century (e.g. **J** and **W**). This character set omits most of the ligatures but adds numerals and the punctuation and symbols commonly used today.
 
-  * **Runic** covers Old English runes that are present in the manuscript and those that are not. In the Exeter Book, the runes are most often seen among the riddles, and also sporadically in the Message of the Husband and two poems with Cynewulf's runic signatures.
+  * **Runic** covers Old English runes that are present in the manuscript and most of the runes used in the tenth century. (In Exeter MS 3501, the runes are most often found in the riddles, and also sporadically in the Message of the Husband and two poems with Cynewulf’s runic signatures.)
 
   * **Initials** features the enlarged and often decorated letters that were used to mark the beginning of each poem. As with the other styles in this set, this font contains the initial characters that appear in the manuscript, as well as the creation of the ones that do not.
 
@@ -34,16 +34,16 @@ As of December 2021, EBH has a total of 330 glyphs, all of which are described i
 
 ### 1. Enabling ligatures in WS Word
 
-Ligatures are joined letterforms commonly found in medieval manuscripts. To apply this effect to the font, you need to ensure that the OpenType feature, Standard Ligatures (liga), is enabled in your application.
+Ligatures are joined letterforms commonly found in medieval manuscripts. To apply this effect, you need to ensure that the OpenType feature, Standard Ligatures (liga), is enabled in your application.
 
-This feature is on by default in many graphic design or office applications. In Microsoft Word, however, you must enable automatic ligature substitution on the **Advanced** tab of the **Font** dialog box:
+This feature is on by default in most graphic design and office applications. In Microsoft Word, however, you must manually automatic ligature substitution on the **Advanced** tab of the **Font** dialog box:
 
 <p float="left">
 <img src="images/liga-MS-Word.png" width="290" align="top" alt="Enable Ligatures in WS Word" />
 <img src="images/liga-MS-Word-02.png" width="360" align="top" alt="Enable Ligatures in WS Word" />
 </p>
 
-An example of the Old English word **wæter** using EBH **Facsimile**:
+Here is an example of the Old English word **wæter** using EBH **Facsimile**:
 
 | Ligatures ON            | Ligatures OFF |
 :-------------------------:|:-------------------------:
@@ -51,7 +51,7 @@ An example of the Old English word **wæter** using EBH **Facsimile**:
 
 ### 2. Using alternative glyphs
 
-All EBH fonts contain alternative glyphs for a number of characters. Access to these glyphs is easy and straightforward. For example, in EBH **Facsimile**, there are three forms of the lowercase letter **Y**, and each of them is assigned a combination key, such as **`y`** , **`y`**+**`2`**, and **`y`**+**`3`**:
+All EBH fonts contain alternative glyphs for a number of characters. Accessing these glyphs is easy. For example, in EBH **Facsimile**, there are three forms of the lowercase letter **Y**, and each of them is assigned a combination of keys, such as **`y`** , **`y`**+**`2`**, and **`y`**+**`3`**:
 
 | Key             |  Character | Description |
 :-------------------------:|:-------------------------:|:-------------------------:
