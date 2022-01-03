@@ -30,7 +30,7 @@ This font collection covers the great majority of letter forms, punctuation and 
 
 As of December 2021, EBH has a total of 330 glyphs, all of which are described in [EBH-all-glyphs.pdf](EBH-all-glyphs.pdf). Specimens are on the [project website](https://www.exeterbookhand.com).
 
-## Notes to users
+## Notes to Users
 
 ### 1. Enabling ligatures in WS Word
 
