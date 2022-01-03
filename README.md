@@ -24,7 +24,7 @@ This font collection covers the great majority of letter forms, punctuation and 
 
   * **Alternates** offers some contemporary characters interpreted in the style of the scribal hand (e.g. lowercase **R** and **S**), as well as letters that were not used by English scribes in the tenth century (e.g. **J** and **W**). This character set omits most of the ligatures but adds numerals and the punctuation and symbols commonly used today.
 
-  * **Runic** covers Old English runes that are present in the manuscript and most of the runes used in the tenth century. (In Exeter MS 3501, the runes are most often found in the riddles, and also sporadically in the Message of the Husband and two poems with Cynewulf’s runic signatures.)
+  * **Runes** covers Old English runes that are present in the manuscript and most of the runes used in the tenth century. (In Exeter MS 3501, the runes are most often found in the riddles, and also sporadically in the Message of the Husband and two poems with Cynewulf’s runic signatures.)
 
   * **Initials** features the enlarged and often decorated letters that were used to mark the beginning of each poem. As with the other styles in this set, this font contains the initial characters that appear in the manuscript, as well as the creation of the ones that do not.
 
