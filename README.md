@@ -16,17 +16,17 @@ The project includes the following resources:
 
 [![Latest Release](https://img.shields.io/github/v/release/rubywku/exeterbookhand?label=Download%20Release&logo=Github)](https://github.com/rubywku/exeterbookhand/releases/latest)
 
-EBH (short for Exeter-Book Hand) is a digital type revival based on the hand of the scribe and illuminator who produced Exeter MS 3501. In the main text of the manuscript, the overall shape of the scribal hand is very upright, with long ascenders and descenders and a fine balance of light and heavy strokes, whereas the ornamentation takes the form of initials made up of elements common in both Germanic and Celtic art. EBH covers the Old English characters in the text and initials, with an extension to the modern character set.
+EBH (short for Exeter-Book Hand) is a digital type revival based on the hand of the scribe and illuminator who produced Exeter MS 3501. The overall shape of the script is very upright, with long ascenders and descenders and a fine balance of light and heavy strokes, whereas the ornamentation takes the form of initials made up of elements common in both Germanic and Celtic art. 
 
-EBH comes in four type styles:
+A faithful rendition of the script embodied by Exeter Book's hand, EBH covers the Old English characters in both text and initials , and extends even further into the modern character set. The set comes in four type styles:
 
   * **Facsimile** is complete with Old English characters, ligatures, archaic and special forms of letters (e.g. long **S**, bowed **R**, and three different shapes of **Y**) as they appear in the manuscript. It also contains the medieval punctuation and abbreviations employed by the scribe.
 
-  * **Alternates** offers some contemporary characters interpreted in the style of the scribal hand, as well as letters that were not or rarely used by English scribes in the tenth century. This character set omits most of the ligatures for better legibility, but adds numerals and the punctuation and symbols that are most commonly used in today's communications.
+  * **Alternates** offers some contemporary characters interpreted in the style of the scribal hand, as well as letters that were not or rarely used by English scribes in the tenth century. This character set omits most of the ligatures for better legibility, but adds numerals and the punctuation and symbols that are essential in present-day communications.
 
-  * **Runic** covers Old English runes that are present in the manuscript and those that are not. (Note: In Exeter MS 3501, the runes are most often found in the riddles, and also sporadically in the Message of the Husband and two poems with Cynewulf's runic signatures.)
+  * **Runic** covers Old English runes that are present in the manuscript and those that are not. In the Exeter Book, the runes are most often seen among the riddles, and also sporadically in the Message of the Husband and two poems with Cynewulf's runic signatures.
 
-  * **Initials** features the enlarged and often decorated letters that were used to mark the beginning of each poem throughout the manuscript. As with the other styles in this set, this font contains the initial characters that appear in the manuscript, as well as the creation of the ones that do not.
+  * **Initials** features the enlarged and often decorated letters that were used to mark the beginning of each poem. As with the other styles in this set, this font contains the initial characters that appear in the manuscript, as well as the creation of the ones that do not.
 
 As of December 2021, EBH has a total of 330 glyphs, all of which are described in [EBH-all-glyphs.pdf](EBH-all-glyphs.pdf). Specimens are on the [project website](https://www.exeterbookhand.com).
 
@@ -34,9 +34,9 @@ As of December 2021, EBH has a total of 330 glyphs, all of which are described i
 
 ### 1. Enabling ligatures in WS Word
 
-Ligatures, in medieval manuscripts, are joined letterforms used by scribes to make writing more efficient while saving space on the precious writing material. If you wish to render this scribal feature, you need to ensure that the OpenType feature, Standard Ligatures (liga), is enabled in your software.
+Ligatures are joined letterforms commonly found in medieval manuscripts. To apply this effect to the font, you need to ensure that the OpenType feature, Standard Ligatures (liga), is enabled in your application.
 
-This feature is activated by default in all major software, except Microsoft Word, where you must enable automatic ligature substitution on the **Advanced** tab of the **Font** dialogue box:
+This feature is on by default in many graphic design or office applications. In Microsoft Word, however, you must enable automatic ligature substitution on the **Advanced** tab of the **Font** dialog box:
 
 <p float="left">
 <img src="images/liga-MS-Word.png" width="290" align="top" alt="Enable Ligatures in WS Word" />
