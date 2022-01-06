@@ -4,7 +4,7 @@
 
 This is the repository for **The Digital Exeter-Book Hand** ([exeterbookhand.com](https://www.exeterbookhand.com)), an independent project that has been created to encourage the study and appreciation of the scribal hand of the Exeter MS 3501, commonly known as the Exeter Book.
 
-The Exeter Book is one of the four major surviving miscellanies of Old English literature. It acquired its name because it has been in the care of the Exeter Cathedral since it was donated to the library there by Bishop Leofric, sometime before 1072. Written around AD 970, the Exeter Book was described in Leofric’s donation list as a _mycel Englisc boc be gehwilcum þingum on leoð-wisan geworht_ (‘a large English book about all sorts of things composed in verse’), with texts ranging from religious narrative to didactic poems and riddles. The script is English Square minuscule, which emerged from the earlier pointed minuscule developed in the British Isles. Elegantly crafted by the Exeter Book scribe, this Square minuscule hand was deemed by Sir E. M. Thompson to be a standard example of what tenth-century scribes aspired to emulate.
+The Exeter Book is one of the four major surviving miscellanies of Old English literature. It acquired its name because it has been in the care of the Exeter Cathedral since it was donated to the library there by Bishop Leofric, sometime before 1072. Written around AD 970, the Exeter Book was described in Leofric’s donation list as a _mycel Englisc boc be gehwilcum þingum on leoð-wisan geworht_ (‘a large English book about all sorts of things composed in verse’), with texts ranging from religious narrative to didactic poems and riddles. The script is English Square minuscule, which emerged from the earlier pointed minuscule developed in the British Isles. Elegantly crafted by the Exeter Book scribe, this Square minuscule hand was deemed by Sir E. M. Thompson to be a standard example of what 10th-century scribes aspired to emulate.
 
 The project includes the following resources:
   * [**EBH Font Collection**](#ebh-font-collection) – a set of OpenType fonts covering most letters and ligatures within the manuscript
@@ -18,7 +18,7 @@ The project includes the following resources:
 
 EBH (short for Exeter-Book Hand) is a digital type of revival based on the hand of the scribe and illuminator who produced the Exeter MS 3501. The overall shape of the script is very upright, with long ascenders and descenders and a fine balance of light and heavy strokes, whereas the ornamentation takes the form of initials made up of elements common in both Germanic and Celtic art. 
 
-This font collection covers the majority of letter forms, punctuation and diacritical marks found in the manuscript, with an extension of the modern character set. It comes in four types:
+This font collection covers the great majority of letter forms, punctuation and diacritical marks found in the manuscript, with an extension of the modern character set. It comes in four types:
 
   * **Facsimile** is complete with Old English characters, ligatures, and archaic or special forms of letters (e.g. long **S**, bowed **R**, and three different shapes of **Y**). It also contains the medieval punctuation and abbreviations employed by the scribe.
 
